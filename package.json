@@ -1,0 +1,25 @@
+{
+    "name": "user_manager",
+    "version": "1.0.0",
+    "description": "User_Manager example",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js",
+        "dev": "nodemon --inspect app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RMF-HCA2/User_Manager.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/RMF-HCA2/User_Manager/issues"
+    },
+    "homepage": "https://github.com/RMF-HCA2/User_Manager#readme",
+    "dependencies": {
+        "logger": "0.0.1",
+        "yargs": "^14.0.0"
+    }
+}
