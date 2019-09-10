@@ -1,0 +1,24 @@
+
+info [Tue Sep 10 2019 04:46:08 GMT-0400 (Eastern Daylight Time)]  App accessed by rob: Success - User Created: FooBar password123 foobar@test.com.
+
+info [Tue Sep 10 2019 04:46:14 GMT-0400 (Eastern Daylight Time)]  App accessed by rob: Success - User: FooBar foobar@test.com.
+
+info [Tue Sep 10 2019 04:46:19 GMT-0400 (Eastern Daylight Time)]  App accessed by rob: Success - User Created: BizBaz password456 bizbaz@test.com.
+
+info [Tue Sep 10 2019 04:46:23 GMT-0400 (Eastern Daylight Time)]  App accessed by rob: Success - Users:FooBar, foobar@test.com'; BizBaz, bizbaz@test.com'; 
+
+info [Tue Sep 10 2019 04:46:28 GMT-0400 (Eastern Daylight Time)]  App accessed by rob: Success - User Updated: FooBar foobar@hig.com.
+
+info [Tue Sep 10 2019 04:46:32 GMT-0400 (Eastern Daylight Time)]  App accessed by rob: Success - User: FooBar foobar@hig.com.
+
+info [Tue Sep 10 2019 04:46:36 GMT-0400 (Eastern Daylight Time)]  App accessed by rob: Success - User (BizBaz) deleted.
+
+info [Tue Sep 10 2019 04:46:41 GMT-0400 (Eastern Daylight Time)]  App accessed by rob: Success - Users:FooBar, foobar@hig.com'; 
+
+info [Tue Sep 10 2019 04:47:06 GMT-0400 (Eastern Daylight Time)]  App accessed by rob: Failure - Command not found!
+
+info [Tue Sep 10 2019 04:47:10 GMT-0400 (Eastern Daylight Time)]  App accessed by rob: Failure - User (BingBang) not found!
+
+info [Tue Sep 10 2019 04:47:16 GMT-0400 (Eastern Daylight Time)]  App accessed by rob: Failure - User not created: Duplicate User (FooBar) found!
+
+info [Tue Sep 10 2019 04:47:20 GMT-0400 (Eastern Daylight Time)]  App accessed by rob: Failure - Invalid credentials.
